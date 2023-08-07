@@ -14,7 +14,7 @@ This repository consists of the following Python scripts:
 5. `s_wave_base.py`: A base script that defines the fundamental functions and classes for simulating S waves.
 6. `s_wave_mine.py`: A customized version of the S wave simulation script.
 7. `s_wave.py`: A script to simulate S waves.
-8. `test1.py`,`test2.py` and 'test3'.py: Scripts to test various functions and classes defined in the other scripts.
+8. `test1.py`,`test2.py` and `test3`.py: Scripts to test various functions and classes defined in the other scripts.
    
 
 ## Installation
